@@ -12,6 +12,6 @@ public class SpiralRotate : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        transform.Rotate(Time.smoothDeltaTime * rotSpd.x, Time.smoothDeltaTime * rotSpd.y, Time.smoothDeltaTime * rotSpd.z);
+        //transform.Rotate(Time.smoothDeltaTime * rotSpd.x, Time.smoothDeltaTime * rotSpd.y, Time.smoothDeltaTime * rotSpd.z);
 	}
 }
